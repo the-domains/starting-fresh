@@ -1,0 +1,28 @@
+name: Starting Fresh
+favicon: null
+layout_spectrum: 0.7666635843925178
+typography_spectrum: 0.43085004412569106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08406662940979004
+  lightness: 0.16073794476687908
+  saturation: 0.15390815609134734
+  rhythmicContrast: 0.2622031804639846
+purpose: []
