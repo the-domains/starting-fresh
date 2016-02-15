@@ -1,6 +1,6 @@
 name: My Life in a Year With Twins
 favicon: null
-layout_spectrum: 0.7666635843925178
+layout_spectrum: 0.972
 typography_spectrum: 0.43085004412569106
 title: 'How is to live with three loves: My wife, my daughter and my son.'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.08406662940979004
-  lightness: 0.16073794476687908
-  saturation: 0.15390815609134734
-  rhythmicContrast: 0.2622031804639846
+    - '#fffdff'
+    - '#0b0c20'
+    - '#7a7686'
+    - '#145b14'
+    - '#b93f21'
+  brandStrength: 0.4375
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
